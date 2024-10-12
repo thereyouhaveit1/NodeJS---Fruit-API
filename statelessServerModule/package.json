@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "express": "^4.21.1",
-    "mongodb": "^5.5.0"
+    "mongodb": "^5.8.0"
   },
   "name": "statelessservermodule",
   "version": "1.0.0",
