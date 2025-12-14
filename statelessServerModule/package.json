@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.22.1",
+    "mongodb": "^5.8.0"
+  },
+  "name": "statelessservermodule",
+  "version": "1.0.0",
+  "main": "fruitAPP.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n/a.git"
+  },
+  "keywords": [
+    "n/a"
+  ],
+  "author": "CB ",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/n/a/issues"
+  },
+  "homepage": "https://github.com/n/a#readme",
+  "description": ""
+}
